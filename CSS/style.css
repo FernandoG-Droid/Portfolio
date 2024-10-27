@@ -4,8 +4,8 @@
 :root {
   --main-color: #159da7;
   --text-color: #ffffff;
-  --bg-color-01: #1f242d;
-  --bg-color-02: #323946;
+  --bg-color-01: #191e27;
+  --bg-color-02: #31363f;
   --color-00: #0000001a;
 
   /* Extra  */
@@ -26,7 +26,7 @@
   scroll-behavior: smooth;
 }
 
-hmtl {
+html {
   font-family: "Poppins", sans-serif;
   font-size: 16px;
 }
